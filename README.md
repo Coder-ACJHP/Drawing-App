@@ -22,3 +22,8 @@ Extended from UIView class drawing lines with options, listening touches on scre
 It is flexible, class you can modify it like normal UIView just added 
 <br>
 * isDrawable : Bool // For controlling drawing mode
+* Fill background: UIColor (tool)
+* Eraser (tool)
+* Color Picker (tool)
+* Undo (tool)
+* Clear (tool)
