@@ -16,7 +16,7 @@ Including line object and it's properties, you can modify it as you want.
 * BlendMode: CGBlendMode<br>
 
 #### DrawingArea:
-Extended from UIView class drawing lines with options, listening touches on screen and tracking the locations.
+Extended from UIView class drawing lines with options, listening touches on screen and tracking the locations based on UIGraphics context. As default context using .interpolationQuality = .high 
 
 ##### DrawingArea Options:
 It is flexible, class you can modify it like normal UIView just added 
